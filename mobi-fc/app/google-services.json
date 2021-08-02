@@ -1,0 +1,39 @@
+{
+    "project_info": {
+        "project_number": "483925863657",
+        "project_id": "fraudcheck-be40d",
+        "storage_bucket": "fraudcheck-be40d.appspot.com"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:483925863657:android:8613584a4243ce4c5b9478",
+                "android_client_info": {
+                    "package_name": "overview.fraudcheck"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "483925863657-t81q24nohu7dptdm9rjtcfileu6k8g6s.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyDWPH3MekX6k5FECsD_k0fFm5f8q6H3ZHs"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "483925863657-t81q24nohu7dptdm9rjtcfileu6k8g6s.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
